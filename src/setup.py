@@ -10,7 +10,6 @@ import ssl
 import threading
 from tkinter import *
 from tkinter.ttk import *
-import tkinter.messagebox
 from tkinter import scrolledtext
 from tkinter import filedialog
 
